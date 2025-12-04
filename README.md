@@ -140,8 +140,8 @@ int main(int argc, char *argv[]) {
 ```
 ## OUTPUT
 ### 1.
-![alt text](<Screenshot 2025-11-30 223713.png>)
+![alt text](ex7.png)
 ### 2.
-![alt text](<Screenshot 2025-11-30 224127.png>)
+![alt text](ex7-1.png)
 # RESULT:
 The programs are executed successfully.
